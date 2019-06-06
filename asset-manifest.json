@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://dappnode.github.io/welcome/static/css/main.5337e80f.chunk.css",
-    "main.js": "https://dappnode.github.io/welcome/static/js/main.1805a5a9.chunk.js",
-    "main.js.map": "https://dappnode.github.io/welcome/static/js/main.1805a5a9.chunk.js.map",
-    "runtime~main.js": "https://dappnode.github.io/welcome/static/js/runtime~main.02af6437.js",
-    "runtime~main.js.map": "https://dappnode.github.io/welcome/static/js/runtime~main.02af6437.js.map",
-    "static/js/2.cff806e2.chunk.js": "https://dappnode.github.io/welcome/static/js/2.cff806e2.chunk.js",
-    "static/js/2.cff806e2.chunk.js.map": "https://dappnode.github.io/welcome/static/js/2.cff806e2.chunk.js.map",
-    "index.html": "https://dappnode.github.io/welcome/index.html",
-    "precache-manifest.391eb082651bb6c7145ff6d0342c703f.js": "https://dappnode.github.io/welcome/precache-manifest.391eb082651bb6c7145ff6d0342c703f.js",
-    "service-worker.js": "https://dappnode.github.io/welcome/service-worker.js",
-    "static/css/main.5337e80f.chunk.css.map": "https://dappnode.github.io/welcome/static/css/main.5337e80f.chunk.css.map",
-    "static/media/connect-to-router.png": "https://dappnode.github.io/welcome/static/media/connect-to-router.d5fb455d.png",
-    "static/media/copyIcon.svg": "https://dappnode.github.io/welcome/static/media/copyIcon.1fe4e5d7.svg",
-    "static/media/ready-icon.png": "https://dappnode.github.io/welcome/static/media/ready-icon.d299d540.png",
-    "static/media/secure-file.svg": "https://dappnode.github.io/welcome/static/media/secure-file.e4cba782.svg"
+    "main.css": "/static/css/main.5337e80f.chunk.css",
+    "main.js": "/static/js/main.4416913c.chunk.js",
+    "main.js.map": "/static/js/main.4416913c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.cff806e2.chunk.js": "/static/js/2.cff806e2.chunk.js",
+    "static/js/2.cff806e2.chunk.js.map": "/static/js/2.cff806e2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e6dda3af01904ccbcb570645c1f04cab.js": "/precache-manifest.e6dda3af01904ccbcb570645c1f04cab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5337e80f.chunk.css.map": "/static/css/main.5337e80f.chunk.css.map",
+    "static/media/connect-to-router.png": "/static/media/connect-to-router.d5fb455d.png",
+    "static/media/copyIcon.svg": "/static/media/copyIcon.1fe4e5d7.svg",
+    "static/media/ready-icon.png": "/static/media/ready-icon.d299d540.png",
+    "static/media/secure-file.svg": "/static/media/secure-file.e4cba782.svg"
   }
 }
