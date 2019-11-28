@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21f6e8967245eb3f7805e6bffc42c21e",
+    "revision": "27499c240817e2cafa4fab8bf7ca2cbf",
     "url": "https://dappnode.github.io/welcome/index.html"
   },
   {
-    "revision": "5fe66a11e8b9c8d89f05",
-    "url": "https://dappnode.github.io/welcome/static/css/main.5337e80f.chunk.css"
+    "revision": "68abbf7ece923406d0b5",
+    "url": "https://dappnode.github.io/welcome/static/css/main.427a1695.chunk.css"
   },
   {
     "revision": "3ac92f7f911a6abf5e29",
     "url": "https://dappnode.github.io/welcome/static/js/2.cff806e2.chunk.js"
   },
   {
-    "revision": "5fe66a11e8b9c8d89f05",
-    "url": "https://dappnode.github.io/welcome/static/js/main.1805a5a9.chunk.js"
+    "revision": "68abbf7ece923406d0b5",
+    "url": "https://dappnode.github.io/welcome/static/js/main.ae62d176.chunk.js"
   },
   {
     "revision": "52f18b2a9d890d3ad5ae",
